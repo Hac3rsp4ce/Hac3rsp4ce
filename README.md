@@ -21,8 +21,6 @@ Co-authored a research paper on Facial Recognition with Secured Dynamic Implemen
 
 Feel free to check out my projects and connect with me!
 
-🔗 Connect:
-
 
 
 <!---
