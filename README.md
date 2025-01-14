@@ -1,4 +1,4 @@
-👋 Hi, I'm **Amaan Mohammed**
+# 👋 Hi, I'm **Amaan Mohammed**
 
 I’m a passionate Cybersecurity Analyst with a Master’s of Science in Cybersecurity from Florida International University (FIU), where I gained hands-on experience securing applications, networks, and systems. My expertise spans web penetration testing, incident response, and vulnerability management, complemented by real-world projects that enhance security across various platforms.
 
