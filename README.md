@@ -4,11 +4,11 @@ I’m a passionate Cybersecurity Analyst with a Master’s of Science in Cyberse
 
 # 🔐 Professional Experience:
 
-Operation Lead at FIU – Housing and Residential Life (2023–2024):
-Managed hybrid cloud environments, Active Directory, and Microsoft 365 services while optimizing performance and maintaining security. Configured and maintained VMware environments and resolved critical network infrastructure issues.
+**Operation Lead at FIU – Housing and Residential Life (2023–2024):**
+* Managed hybrid cloud environments, Active Directory, and Microsoft 365 services while optimizing performance and maintaining security. Configured and maintained VMware environments and resolved critical network infrastructure issues.
 
-Associate Security Analyst at Mio Meds (2021–2022):
-Supported AWS, Azure, and VMware environments, automated security testing, and triaged security alerts. Collaborated with teams to enforce compliance and reduced incident response time by 30%.
+**Associate Security Analyst at Mio Meds (2021–2022):**
+* Supported AWS, Azure, and VMware environments, automated security testing, and triaged security alerts. Collaborated with teams to enforce compliance and reduced incident response time by 30%.
 
 # 🚀 Key Skills:
 
@@ -20,9 +20,9 @@ Python, Bash, SQL, Terraform, CloudFormation.
 
 # Certifications & Platforms
 **Hack The Box:** 
--Completed hands-on labs in penetration testing, incident response, and vulnerability exploitation.
+* Completed hands-on labs in penetration testing, incident response, and vulnerability exploitation.
 **TryHackMe:** 
--Focused on SIEM monitoring, malware reverse engineering, and cloud security.
+* Focused on SIEM monitoring, malware reverse engineering, and cloud security.
 # 🎓  Academic Projects
 
 **Active Directory Home Lab Setup (Ongoing):**
