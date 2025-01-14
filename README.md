@@ -12,16 +12,17 @@ Supported AWS, Azure, and VMware environments, automated security testing, and t
 
 # 🚀 Key Skills:
 
-**Tools & Technologies**
+**Tools & Technologies:**
 PowerShell, Burp Suite, Wireshark, Metasploit, Docker, AWS Security, Splunk, Sysmon, and more.
 
-**Languages**
+**Languages:**
 Python, Bash, SQL, Terraform, CloudFormation.
 
-**Certifications & Platforms**
-
-Hack The Box: Completed hands-on labs in penetration testing, incident response, and vulnerability exploitation.
-TryHackMe: Focused on SIEM monitoring, malware reverse engineering, and cloud security.
+# Certifications & Platforms
+**Hack The Box:** 
+  -Completed hands-on labs in penetration testing, incident response, and vulnerability exploitation.
+**TryHackMe:** 
+  -Focused on SIEM monitoring, malware reverse engineering, and cloud security.
 # 🎓  Academic Projects
 
 **Active Directory Home Lab Setup (Ongoing):**
