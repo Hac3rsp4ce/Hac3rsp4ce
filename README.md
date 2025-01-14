@@ -27,16 +27,16 @@ Python, Bash, SQL, Terraform, CloudFormation.
 # 🎓  Academic Projects
 
 **Active Directory Home Lab Setup (Ongoing):**
-Built a comprehensive lab to simulate real-world attacks and defenses in an Active Directory environment. Automated user and group creation using PowerShell scripts and analyzed attack patterns using Sysmon-based logging. Continuously updating the lab with attack vectors and defensive measures.
+* Built a comprehensive lab to simulate real-world attacks and defenses in an Active Directory environment. Automated user and group creation using PowerShell scripts and analyzed attack patterns using Sysmon-based logging. Continuously updating the lab with attack vectors and defensive measures.
 
 **Secured Network Communications:**
-Implemented Single Sign-On (SSO) using Kerberos, LDAP, and DNS to secure network communications in an Active Directory environment.
+* Implemented Single Sign-On (SSO) using Kerberos, LDAP, and DNS to secure network communications in an Active Directory environment.
 
 **Facial Recognition Door Unlock System:**
-Developed an access control system using Raspberry Pi, machine learning, and network security protocols to ensure robust protection for sensitive areas.
+* Developed an access control system using Raspberry Pi, machine learning, and network security protocols to ensure robust protection for sensitive areas.
 
 **Secure VPN Server on GCP:**
-Configured a scalable and secure VPN server on Google Cloud Platform (GCP) for encrypted remote access.
+* Configured a scalable and secure VPN server on Google Cloud Platform (GCP) for encrypted remote access.
 
 # 📚 Publications:
 Co-authored a research paper:
