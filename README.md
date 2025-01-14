@@ -21,6 +21,7 @@ Python, Bash, SQL, Terraform, CloudFormation.
 # Certifications & Platforms
 **Hack The Box:** 
 * Completed hands-on labs in penetration testing, incident response, and vulnerability exploitation.
+  
 **TryHackMe:** 
 * Focused on SIEM monitoring, malware reverse engineering, and cloud security.
 # 🎓  Academic Projects
