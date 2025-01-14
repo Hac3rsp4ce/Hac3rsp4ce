@@ -40,7 +40,8 @@ Configured a scalable and secure VPN server on Google Cloud Platform (GCP) for e
 Co-authored a research paper:
 
 Facial Recognition System with Secured Dynamic Implementation and Time Restriction, published by Springer Nature, 2022.
-💡 Feel free to explore my GitHub projects and connect with me to collaborate or share ideas! 🚀
+
+# 💡 Feel free to explore my GitHub projects and connect with me to collaborate or share ideas! 🚀
 
 
 <!---
